@@ -1,5 +1,6 @@
 .vscode/
-.ipynb_checkpoints/
+**/.virtual_documents/
+**/.ipynb_checkpoints/
 __pycache__/
 .env
 *.pyc
