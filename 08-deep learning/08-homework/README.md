@@ -6,8 +6,6 @@ Homework for Module 8 on neural networks and deep learning. The model classifies
 
 - `08-homework.ipynb` - solutions with outputs for each question
 - `requirements-cpu.txt` - course CPU dependencies and JupyterLab
-- `history_baseline.json` - metrics for the first 10 epochs
-- `history_augmented.json` - metrics for the next 10 epochs with data augmentation
 
 ## Requirements
 
